@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png">
+<img align="right" width="500" height="500" src="https://github.com/MarioMeza/MarioMeza/blob/master/home-banner-bg.png">
 
 
 # Hola, soy desarrollador.
@@ -45,7 +45,7 @@ Developer | Virtual Reality | Augmented Reality |Modelado 3D | Developer (Django
 **MarioMeza/MarioMeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<img align="right" width="500" height="500" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png">
+<img align="right" width="500" height="500" src="https://github.com/MarioMeza/MarioMeza/blob/master/home-banner-bg.png">
 
 
 # Hola, soy desarrollador.
