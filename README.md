@@ -1,7 +1,7 @@
 <img align="right" width="500" height="500" src="https://github.com/MarioMeza/MarioMeza/blob/master/home-banner-bg.png">
 
 
-# Hola, soy desarrollador.
+# Hola, soy Mario.
 
 Developer | Virtual Reality | Augmented Reality |Modelado 3D | Developer (Django Python)
 
