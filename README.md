@@ -12,7 +12,15 @@ Developer | Virtual Reality | Augmented Reality |Modelado 3D | Developer (Django
 
 - Me gusta el mundo de la realidad virtual y diseñar modelos 3D, la musica, practicar Taekwondo y los videojuegos.
 
+### Languages & Tools:
 
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="python" src="https://img.shields.io/badge/-Python 3.8.5-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="ubuntu" src="https://img.shields.io/badge/-Ubuntu 20.04 LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white" /> <img alt="vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" /> <img alt="vscode" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img alt="firefox" src="https://img.shields.io/badge/-Firefox Browser-FF7139?style=flat-square&logo=firefox-browser&logoColor=white" />
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Github Stats:
+
+![github stats](https://github-readme-stats.vercel.app/api?username=MarioMeza&show_icons=true)
 
 ## Mis redes sociales
 
