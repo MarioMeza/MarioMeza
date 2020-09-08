@@ -3,7 +3,7 @@
 
 # Hola, soy Mario.
 
-Developer | Virtual Reality | Augmented Reality |Modelado 3D | Developer (Django Python)
+Developer | Virtual Reality | Augmented Reality |Modelado 3D | Developer (Python)
 
 
 ## Acerca de mi
